@@ -1,0 +1,17 @@
+C:\Users\in_th\source\repos\HotelManagement\Hotel.Domain\bin\Debug\net8.0\Hotel.Domain.deps.json
+C:\Users\in_th\source\repos\HotelManagement\Hotel.Domain\bin\Debug\net8.0\Hotel.Domain.runtimeconfig.json
+C:\Users\in_th\source\repos\HotelManagement\Hotel.Domain\bin\Debug\net8.0\Hotel.Domain.dll
+C:\Users\in_th\source\repos\HotelManagement\Hotel.Domain\bin\Debug\net8.0\Hotel.Domain.pdb
+C:\Users\in_th\source\repos\HotelManagement\Hotel.Domain\bin\Debug\net8.0\Hotel.Model.dll
+C:\Users\in_th\source\repos\HotelManagement\Hotel.Domain\bin\Debug\net8.0\Hotel.Model.pdb
+C:\Users\in_th\source\repos\HotelManagement\Hotel.Domain\obj\Debug\net8.0\Hotel.Domain.csproj.AssemblyReference.cache
+C:\Users\in_th\source\repos\HotelManagement\Hotel.Domain\obj\Debug\net8.0\Hotel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\in_th\source\repos\HotelManagement\Hotel.Domain\obj\Debug\net8.0\Hotel.Domain.AssemblyInfoInputs.cache
+C:\Users\in_th\source\repos\HotelManagement\Hotel.Domain\obj\Debug\net8.0\Hotel.Domain.AssemblyInfo.cs
+C:\Users\in_th\source\repos\HotelManagement\Hotel.Domain\obj\Debug\net8.0\Hotel.Domain.csproj.CoreCompileInputs.cache
+C:\Users\in_th\source\repos\HotelManagement\Hotel.Domain\obj\Debug\net8.0\Hotel.Domain.csproj.CopyComplete
+C:\Users\in_th\source\repos\HotelManagement\Hotel.Domain\obj\Debug\net8.0\Hotel.Domain.dll
+C:\Users\in_th\source\repos\HotelManagement\Hotel.Domain\obj\Debug\net8.0\refint\Hotel.Domain.dll
+C:\Users\in_th\source\repos\HotelManagement\Hotel.Domain\obj\Debug\net8.0\Hotel.Domain.pdb
+C:\Users\in_th\source\repos\HotelManagement\Hotel.Domain\obj\Debug\net8.0\Hotel.Domain.genruntimeconfig.cache
+C:\Users\in_th\source\repos\HotelManagement\Hotel.Domain\obj\Debug\net8.0\ref\Hotel.Domain.dll
