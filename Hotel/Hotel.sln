@@ -3,13 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel", "Hotel.csproj", "{2FDB5775-DCDE-4FCD-9F25-115B88A84767}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotel", "Hotel.csproj", "{2FDB5775-DCDE-4FCD-9F25-115B88A84767}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel.Model", "..\Hotel.Model\Hotel.Model.csproj", "{F8A80C44-39F5-46F1-89EF-C99AC7F2C32F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotel.Model", "..\Hotel.Model\Hotel.Model.csproj", "{F8A80C44-39F5-46F1-89EF-C99AC7F2C32F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel.Domain", "..\Hotel.Domain\Hotel.Domain.csproj", "{598B79EB-53B4-4646-BC02-4F7036EEA64D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotel.Domain", "..\Hotel.Domain\Hotel.Domain.csproj", "{598B79EB-53B4-4646-BC02-4F7036EEA64D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel.Service", "..\Hotel.Service\Hotel.Service.csproj", "{6CB7EE09-D49C-4877-BCEB-7E1CA5AD1CBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotel.Service", "..\Hotel.Service\Hotel.Service.csproj", "{6CB7EE09-D49C-4877-BCEB-7E1CA5AD1CBE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DBYedek", "DBYedek", "{D6902176-5847-427F-8550-750FF8B0D59E}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\..\DbBackup\HotelDBackUp = ..\..\..\..\..\..\DbBackup\HotelDBackUp
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
