@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4PnWXUBFrWuoqzQRYePfKAXX0/TDUb/IJexUaAnYKTcfGOfz62r5dn/Ahfb9EgBSPfOaij0wLbNqvEbWk3csYw==",
+  "dgSpecHash": "Hgcts9hr4MNN9jYz76KxjQ6cV0BGks+0yjxd6hQ1YBaG7N15g7TR97T7V9uhArczRs1+7iBuVpBMV9avzlEs7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\in_th\\source\\repos\\HotelManagement\\Hotel.Model\\Hotel.Model.csproj",
+  "projectFilePath": "C:\\Users\\in_th\\Source\\Repos\\HotelCase\\Hotel.Model\\Hotel.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\in_th\\.nuget\\packages\\entityframework\\6.1.0\\entityframework.6.1.0.nupkg.sha512",
     "C:\\Users\\in_th\\.nuget\\packages\\microsoft.aspnet.identity.core\\2.2.4\\microsoft.aspnet.identity.core.2.2.4.nupkg.sha512",

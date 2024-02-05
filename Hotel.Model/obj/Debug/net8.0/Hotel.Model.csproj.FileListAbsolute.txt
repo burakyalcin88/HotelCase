@@ -10,3 +10,16 @@ C:\Users\in_th\source\repos\HotelManagement\Hotel.Model\obj\Debug\net8.0\Hotel.M
 C:\Users\in_th\source\repos\HotelManagement\Hotel.Model\obj\Debug\net8.0\refint\Hotel.Model.dll
 C:\Users\in_th\source\repos\HotelManagement\Hotel.Model\obj\Debug\net8.0\Hotel.Model.pdb
 C:\Users\in_th\source\repos\HotelManagement\Hotel.Model\obj\Debug\net8.0\ref\Hotel.Model.dll
+C:\Users\in_th\Source\Repos\HotelCase\Hotel.Model\bin\Debug\net8.0\Hotel.Model.deps.json
+C:\Users\in_th\Source\Repos\HotelCase\Hotel.Model\bin\Debug\net8.0\Hotel.Model.dll
+C:\Users\in_th\Source\Repos\HotelCase\Hotel.Model\bin\Debug\net8.0\Hotel.Model.pdb
+C:\Users\in_th\Source\Repos\HotelCase\Hotel.Model\obj\Debug\net8.0\Hotel.Model.csproj.AssemblyReference.cache
+C:\Users\in_th\Source\Repos\HotelCase\Hotel.Model\obj\Debug\net8.0\Hotel.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\in_th\Source\Repos\HotelCase\Hotel.Model\obj\Debug\net8.0\Hotel.Model.AssemblyInfoInputs.cache
+C:\Users\in_th\Source\Repos\HotelCase\Hotel.Model\obj\Debug\net8.0\Hotel.Model.AssemblyInfo.cs
+C:\Users\in_th\Source\Repos\HotelCase\Hotel.Model\obj\Debug\net8.0\Hotel.Model.csproj.CoreCompileInputs.cache
+C:\Users\in_th\Source\Repos\HotelCase\Hotel.Model\obj\Debug\net8.0\Hotel.Model.sourcelink.json
+C:\Users\in_th\Source\Repos\HotelCase\Hotel.Model\obj\Debug\net8.0\Hotel.Model.dll
+C:\Users\in_th\Source\Repos\HotelCase\Hotel.Model\obj\Debug\net8.0\refint\Hotel.Model.dll
+C:\Users\in_th\Source\Repos\HotelCase\Hotel.Model\obj\Debug\net8.0\Hotel.Model.pdb
+C:\Users\in_th\Source\Repos\HotelCase\Hotel.Model\obj\Debug\net8.0\ref\Hotel.Model.dll

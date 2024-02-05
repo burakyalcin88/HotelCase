@@ -2984,11 +2984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\in_th\\source\\repos\\HotelManagement\\Hotel.Service\\Hotel.Service.csproj",
+      "projectUniqueName": "C:\\Users\\in_th\\Source\\Repos\\HotelCase\\Hotel.Service\\Hotel.Service.csproj",
       "projectName": "Hotel.Service",
-      "projectPath": "C:\\Users\\in_th\\source\\repos\\HotelManagement\\Hotel.Service\\Hotel.Service.csproj",
+      "projectPath": "C:\\Users\\in_th\\Source\\Repos\\HotelCase\\Hotel.Service\\Hotel.Service.csproj",
       "packagesPath": "C:\\Users\\in_th\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\in_th\\source\\repos\\HotelManagement\\Hotel.Service\\obj\\",
+      "outputPath": "C:\\Users\\in_th\\Source\\Repos\\HotelCase\\Hotel.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\in_th\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3005,11 +3005,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\in_th\\source\\repos\\HotelManagement\\Hotel.Domain\\Hotel.Domain.csproj": {
-              "projectPath": "C:\\Users\\in_th\\source\\repos\\HotelManagement\\Hotel.Domain\\Hotel.Domain.csproj"
+            "C:\\Users\\in_th\\Source\\Repos\\HotelCase\\Hotel.Domain\\Hotel.Domain.csproj": {
+              "projectPath": "C:\\Users\\in_th\\Source\\Repos\\HotelCase\\Hotel.Domain\\Hotel.Domain.csproj"
             },
-            "C:\\Users\\in_th\\source\\repos\\HotelManagement\\Hotel.Model\\Hotel.Model.csproj": {
-              "projectPath": "C:\\Users\\in_th\\source\\repos\\HotelManagement\\Hotel.Model\\Hotel.Model.csproj"
+            "C:\\Users\\in_th\\Source\\Repos\\HotelCase\\Hotel.Model\\Hotel.Model.csproj": {
+              "projectPath": "C:\\Users\\in_th\\Source\\Repos\\HotelCase\\Hotel.Model\\Hotel.Model.csproj"
             }
           }
         }

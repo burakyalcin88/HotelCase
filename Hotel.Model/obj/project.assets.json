@@ -122,11 +122,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\in_th\\source\\repos\\HotelManagement\\Hotel.Model\\Hotel.Model.csproj",
+      "projectUniqueName": "C:\\Users\\in_th\\Source\\Repos\\HotelCase\\Hotel.Model\\Hotel.Model.csproj",
       "projectName": "Hotel.Model",
-      "projectPath": "C:\\Users\\in_th\\source\\repos\\HotelManagement\\Hotel.Model\\Hotel.Model.csproj",
+      "projectPath": "C:\\Users\\in_th\\Source\\Repos\\HotelCase\\Hotel.Model\\Hotel.Model.csproj",
       "packagesPath": "C:\\Users\\in_th\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\in_th\\source\\repos\\HotelManagement\\Hotel.Model\\obj\\",
+      "outputPath": "C:\\Users\\in_th\\Source\\Repos\\HotelCase\\Hotel.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\in_th\\AppData\\Roaming\\NuGet\\NuGet.Config",
