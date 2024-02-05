@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Hotel.Service
-build_property.ProjectDir = C:\Users\in_th\source\repos\HotelCase\Hotel.Service\
+build_property.ProjectDir = C:\Users\in_th\Source\Repos\HotelCase\Hotel.Service\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
